@@ -1,0 +1,72 @@
+
+/*  MADERKITTTTTTTTTTTTTTTTTTTTTT */
+
+.body {
+    background-color: white;
+}
+
+
+.responsive {
+    width: 100%;
+    height: auto;
+} 
+
+.info-project {
+    margin-top: 150px;
+    margin-bottom: 50px;
+} 
+
+.info-project h1 {
+    margin-top: 0px;
+    text-align: left;
+    font-weight: bold;
+} 
+
+.descripcion p {
+    text-align: justify;
+    margin-top: 30px;
+}
+
+.primera-col {
+    padding-left: 130px !important;
+    padding-right: 0px !important;
+    text-align: left;
+    
+}
+
+.primera-col h4 {
+    text-align: left;
+    margin-bottom: 20px;
+    font-weight: bold;
+} 
+
+.espacios {
+   
+} 
+
+.separar {
+    margin-top: 80px;
+}
+
+
+.segunda-col h4 {
+   
+    font-weight: bold;
+    margin-bottom: 10px;
+} 
+
+.primera-img {
+    position: relative;
+    float: left;
+}
+
+.segunda-img {
+    position: absolute;
+    margin-top: 120px;
+    z-index: -3;
+}
+
+.tercera-img {
+    margin-top: 100px;
+}
+
